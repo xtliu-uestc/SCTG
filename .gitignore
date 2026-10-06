@@ -1,0 +1,42 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Model checkpoints / weights
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+checkpoints/
+checkpoint/
+
+# Runtime outputs
+outputs/
+output/
+runs/
+cache/
+.cache/
+
+# Temporary files
+*.tmp
+*.temp
